@@ -78,6 +78,6 @@ Contributions to the project are welcome. Please fork the repository, make your 
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Contact
-For support or to report issues, please contact the project team via email at [email@email.com].
+For support or to report issues, please contact the project team via email at [karkisandhyag@gmail.com].
 
 
