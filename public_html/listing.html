@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>List an Item</title>
+</head>
+<body>
+    <h1>List an Item for Auction</h1>
+    <form>
+        Item Name: <input type="text" id="itemName" required/><br/>
+        Category: <select id="category">
+            <option value="Antiques">Antiques</option>
+            <option value="Books">Books</option>
+            <option value="Electronics">Electronics</option>
+            <!-- Add more categories as needed -->
+        </select><br/>
+        Description: <textarea id="description" required></textarea><br/>
+        Reserve Price: <input type="number" id="reservePrice" required/><br/>
+        Buy-It-Now Price: <input type="number" id="buyNowPrice" required/><br/>
+        Start Price: <input type="number" id="startPrice" value="0" required/><br/>
+        <button type="button" onclick="listItem()">List Item</button>
+    </form>
+    <script src="listing.js"></script>
+</body>
+</html>

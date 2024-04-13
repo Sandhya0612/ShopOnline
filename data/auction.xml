@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auctions>
+    <item id="101" customerId="1">
+        <name>Antique Vase</name>
+        <category>Antiques</category>
+        <description>Beautiful antique vase from the 19th century.</description>
+        <reservePrice>100</reservePrice>
+        <buyNowPrice>200</buyNowPrice>
+        <startPrice>50</startPrice>
+        <startDate>2024-04-01</startDate>
+        <startTime>12:00:00</startTime>
+        <status>in_progress</status>
+        <currentBid>50</currentBid>
+        <bidderId>0</bidderId>
+    </item>
+    <item id="102" customerId="2">
+        <name>Vintage Camera</name>
+        <category>Electronics</category>
+        <description>Classic 35mm camera in excellent condition.</description>
+        <reservePrice>150</reservePrice>
+        <buyNowPrice>300</buyNowPrice>
+        <startPrice>75</startPrice>
+        <startDate>2024-04-02</startDate>
+        <startTime>12:00:00</startTime>
+        <status>in_progress</status>
+        <currentBid>75</currentBid>
+        <bidderId>0</bidderId>
+    </item>
+</auctions>
